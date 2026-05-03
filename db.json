@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first": "Pallo",
+      "last": "Pinco",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "first": "Albert",
+      "last": "Einstein",
+      "age": 70
+    }
+  ]
+}
